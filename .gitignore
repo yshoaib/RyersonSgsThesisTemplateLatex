@@ -1,0 +1,15 @@
+*.out
+*.synctex.gz
+*.toc
+*.aux
+*.log
+*.lot
+*.out
+*.lof
+*.DS_Store
+*.bbl
+*.blg
+*.lnk
+**/.texpadtmp/
+*.*~
+.idea
