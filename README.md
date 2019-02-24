@@ -6,6 +6,7 @@ Adheres to the 2017-06-08 guidelines.
 The link to the guidelines can be found [here](https://www.ryerson.ca/graduate/student-guide/academic-matters/dissertation-thesis-exams/)
 
 Example tex file is [example.tex](example.tex)
+
 Example pdf output is [example.pdf](example.pdf)
 
 ## Getting Started
