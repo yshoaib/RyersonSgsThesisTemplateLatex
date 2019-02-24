@@ -5,12 +5,13 @@ Adheres to the 2017-06-08 guidelines.
 
 The link to the guidelines can be found [here](https://www.ryerson.ca/graduate/student-guide/academic-matters/dissertation-thesis-exams/)
 
+Example tex file is [example.tex](example.tex)
 Example pdf output is [example.pdf](example.pdf)
 
 ## Getting Started
 - Copy the contents of this repository
 - *Optional*: Add your remote thesis git repository as the *origin*
-- Modify the contents to begin writing your thesis
+- Modify the contents (example.tex, example.bib and glossary.tex) to begin writing your thesis
 
 ### Prerequisites
 A complete Latex distribution
