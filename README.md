@@ -36,7 +36,7 @@ This project keeps a changelog - see the [CHANGELOG.md](CHANGELOG.md) file for d
 * [**Yasir Shoaib**](https://github.com/yshoaib) - *Original contributor*
 
 ## License
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 * Ryerson SGS thesis guidelines
