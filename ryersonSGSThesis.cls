@@ -1,5 +1,5 @@
 %This project is licensed under the Apache License - Version 2.0. See the LICENSE file for details%
-\ProvidesClass{ryersonSGSThesis}[2019/02/24 v1.0.2 Ryerson SGS Thesis class, Author - Yasir Shoaib, Apache License - Version 2.0]
+\ProvidesClass{ryersonSGSThesis}[2019/02/24 v1.0.3 Ryerson SGS Thesis class, Author - Yasir Shoaib, Apache License - Version 2.0]
 \NeedsTeXFormat{LaTeX2e}
 
 \newcommand{\setAuthor}[1]{\author{#1}}

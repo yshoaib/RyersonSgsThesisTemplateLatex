@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2019-02-24
+### Fixed
+- Links to example files fixed
+
 ## [1.0.2] - 2019-02-24
 ### Added
 - Link to CTAN
@@ -25,7 +29,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Input Latex files: example.tex, example.bib, glossary.tex, and ryersonSGSThesis.cls
 - Output file: example.pdf
 
-[Unreleased]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.2...HEAD
+[Unreleased]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.3...HEAD
+[1.0.3]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/tree/1.0.0

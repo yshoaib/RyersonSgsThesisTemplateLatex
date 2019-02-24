@@ -5,9 +5,9 @@ Adheres to the 2017-06-08 guidelines.
 
 The link to the guidelines can be found [here](https://www.ryerson.ca/graduate/student-guide/academic-matters/dissertation-thesis-exams/)
 
-Example tex file is [example.tex](example.tex)
+Example tex file is [rsgs-example.tex](rsgs-example.tex)
 
-Example pdf output is [example.pdf](example.pdf)
+Example pdf output is [rsgs-example.pdf](rsgs-example.pdf)
 
 ## Getting Started
 - Copy the contents of this repository
