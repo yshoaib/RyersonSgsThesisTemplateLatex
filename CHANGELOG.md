@@ -6,10 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2019-02-24
+### Added
+- Version info to the .cls file
+
+### Changed
+- File names now have 'rsgs-' prefix
+
 ## [1.0.0] - 2019-02-23
 ### Added
 - Input Latex files: example.tex, example.bib, glossary.tex, and ryersonSGSThesis.cls
 - Output file: example.pdf
 
-[Unreleased]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.0...HEAD
+[Unreleased]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/yshoaib/RyersonSgsThesisTemplateLatex/tree/1.0.0
