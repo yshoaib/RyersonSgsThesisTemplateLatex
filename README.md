@@ -40,6 +40,9 @@ This project keeps a changelog - see the [CHANGELOG.md](CHANGELOG.md) file for d
 ## License
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
 
+## CTAN
+* [ryersonsgsthesis](https://ctan.org/pkg/ryersonsgsthesis)
+
 ## Acknowledgments
 * Ryerson SGS thesis guidelines
 * stackoverflow and other various sources on the web
